@@ -58,10 +58,10 @@ WebBikes is a sample application that demonstrates how to build applications wit
     sf project deploy start
     ```
 
-1. Assign the **ebikes** permission set to the default user:
+1. Assign the **WebBikes** permission set to the default user:
 
     ```
-    sf org assign permset -n ebikes
+    sf org assign permset -n WebBikes
     ```
 
 1. Assign the **Walkthroughs** permission set to the default user:
@@ -79,7 +79,7 @@ WebBikes is a sample application that demonstrates how to build applications wit
 1. Publish the Experience Cloud site:
 
     ```
-    sf community publish -n "E-Bikes LWR Site"
+    sf community publish -n "WebBikes LWR Site"
     ```
 
 1. Deploy metadata for the Experience Cloud guest user profile:
@@ -127,7 +127,7 @@ Make sure to start from a brand-new environment to avoid conflicts with previous
     1. Click **Save**
 
 1. Configure the Experience Cloud site metadata file with the following steps:
-    1. Edit the `force-app/main/default/sites/E_Bikes_LWR_Site.site-meta.xml` file.
+    1. Edit the `force-app/main/default/sites/WebBikes_LWR_Site.site-meta.xml` file.
     1. Replace the value between the `<siteAdmin>` tags with your Playground username.
     1. Replace the value between the `<siteGuestRecordDefaultOwner>` tags with your Playground username.
     1. Save the file.
@@ -146,10 +146,10 @@ Make sure to start from a brand-new environment to avoid conflicts with previous
         sf project deploy start -d force-app
         ```
 
-    1. Assign the **ebikes** permission set to the default user.
+    1. Assign the **WebBikes** permission set to the default user.
 
         ```
-        sf org assign permset -n ebikes
+        sf org assign permset -n WebBikes
         ```
 
     1. Import some sample data.
@@ -161,7 +161,7 @@ Make sure to start from a brand-new environment to avoid conflicts with previous
     1. Publish the Experience Cloud site.
 
         ```
-        sf community publish -n "E-Bikes LWR Site"
+        sf community publish -n "WebBikes LWR Site"
         ```
 
     1. Deploy metadata for the Experience Cloud guest user profile:

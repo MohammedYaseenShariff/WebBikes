@@ -32,7 +32,7 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
-    <label>E-Bikes</label>
+    <label>WebBikes</label>
     <navType>Standard</navType>
     <setupExperience>all</setupExperience>
     <tabs>standard-home</tabs>

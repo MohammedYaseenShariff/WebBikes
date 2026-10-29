@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
-        <application>EBikes</application>
+        <application>WebBikes</application>
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
@@ -50,7 +50,7 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
-    <description>Guest user profile for the LWR E-Bikes Experience Cloud site.</description>
+    <description>Guest user profile for the LWR WebBikes Experience Cloud site.</description>
     <fieldPermissions>
         <editable>false</editable>
         <field>Case.AccountId</field>

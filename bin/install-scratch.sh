@@ -6,7 +6,7 @@ cd $SCRIPT_PATH/..
 ORG_ALIAS="ebikes"
 
 echo ""
-echo "Installing E-Bikes scratch org ($ORG_ALIAS)"
+echo "Installing WebBikes scratch org ($ORG_ALIAS)"
 echo ""
 
 # Install script
@@ -23,7 +23,7 @@ sf project deploy start && \
 echo "" && \
 
 echo "Assigning permission sets..." && \
-sf org assign permset -n ebikes && \
+sf org assign permset -n WebBikes && \
 echo "" && \
 
 echo "Importing sample data..." && \
@@ -35,7 +35,7 @@ sleep 30 && \
 echo "" && \
 
 echo "Publishing XP Cloud site..." && \
-sf community publish -n "E-Bikes LWR Site" && \
+sf community publish -n "WebBikes LWR Site" && \
 echo "" && \
 
 echo "Deploying guest profile for XP Cloud site..." && \

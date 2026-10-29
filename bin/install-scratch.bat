@@ -4,7 +4,7 @@ rem Set parameters
 set ORG_ALIAS=ebikes
 
 @echo:
-echo Installing E-Bikes scratch org (%ORG_ALIAS%)
+echo Installing WebBikes scratch org (%ORG_ALIAS%)
 @echo:
 
 rem Install script
@@ -23,7 +23,7 @@ call :checkForError
 @echo:
 
 echo Assigning permission sets...
-cmd.exe /c sf org assign permset -n ebikes
+cmd.exe /c sf org assign permset -n WebBikes
 call :checkForError
 @echo:
 cd %CD%/..
@@ -38,7 +38,7 @@ timeout /T 30 /NOBREAK
 @echo:
 
 echo Publishing XP Cloud site...
-cmd.exe /c sf community publish -n "E-Bikes LWR Site"
+cmd.exe /c sf community publish -n "WebBikes LWR Site"
 call :checkForError
 @echo:
 

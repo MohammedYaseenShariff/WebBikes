@@ -11,7 +11,7 @@
     <disableReputationRecordConversations
     >false</disableReputationRecordConversations>
     <emailSenderAddress>some.sender@company.com.invalid</emailSenderAddress>
-    <emailSenderName>E-Bikes LWR Site</emailSenderName>
+    <emailSenderName>WebBikes LWR Site</emailSenderName>
     <embeddedLoginEnabled>false</embeddedLoginEnabled>
     <enableApexCDNCaching>true</enableApexCDNCaching>
     <enableCustomVFErrorPageOverrides>false</enableCustomVFErrorPageOverrides>
@@ -57,11 +57,11 @@
         >Designer</selfRegProfilePageOverrideSetting>
     </networkPageOverrides>
     <newSenderAddress>some.sender@company.com</newSenderAddress>
-    <picassoSite>E_Bikes_LWR_Site1</picassoSite>
+    <picassoSite>WebBikes_LWR_Site1</picassoSite>
     <secondaryEmailSenderEnabled>false</secondaryEmailSenderEnabled>
     <selfRegistration>false</selfRegistration>
     <sendWelcomeEmail>true</sendWelcomeEmail>
-    <site>E_Bikes_LWR_Site</site>
+    <site>WebBikes_LWR_Site</site>
     <siteArchiveStatus>NotArchived</siteArchiveStatus>
     <status>Live</status>
     <tabs>

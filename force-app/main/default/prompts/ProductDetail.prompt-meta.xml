@@ -4,7 +4,7 @@
     <promptVersions>
         <body
         >The product detail page shows you all of the details related to a product as well as similar products.</body>
-        <customApplication>EBikes</customApplication>
+        <customApplication>WebBikes</customApplication>
         <delayDays>1</delayDays>
         <description
         >Explore the product detail page and it&apos;s functionality.</description>
@@ -30,7 +30,7 @@
     <promptVersions>
         <body
         >The similar product component displays a list of similar products. &lt;br&gt;&lt;br&gt; You can select &lt;b&gt;View Details&lt;/b&gt;  and navigate to the products detail page. This is done using &lt;a href=&quot;https://sfdc.co/bOaUVi&quot;&gt;Lightning Navigation Service&lt;/a&gt;.</body>
-        <customApplication>EBikes</customApplication>
+        <customApplication>WebBikes</customApplication>
         <dismissButtonLabel>Close</dismissButtonLabel>
         <displayPosition>BottomRight</displayPosition>
         <displayType>FloatingPanel</displayType>
@@ -50,7 +50,7 @@
     <promptVersions>
         <body
         >&lt;p&gt;Here you can see how just a single Lightning Web Component can enhance the user experience in the context of a record. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Check out the Order Builder in the &lt;b&gt;Reseller Orders&lt;/b&gt; Tab to learn more about composing multiple components on a record detail page. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</body>
-        <customApplication>EBikes</customApplication>
+        <customApplication>WebBikes</customApplication>
         <displayPosition>BottomCenter</displayPosition>
         <displayType>DockedComposer</displayType>
         <header>Resources</header>

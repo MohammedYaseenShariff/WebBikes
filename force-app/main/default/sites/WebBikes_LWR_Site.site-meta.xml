@@ -20,7 +20,7 @@
     <genericErrorPage>Exception</genericErrorPage>
     <inMaintenancePage>InMaintenance</inMaintenancePage>
     <indexPage>CommunitiesLanding</indexPage>
-    <masterLabel>E-Bikes LWR Site</masterLabel>
+    <masterLabel>WebBikes LWR Site</masterLabel>
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin
     >true</referrerPolicyOriginWhenCrossOrigin>

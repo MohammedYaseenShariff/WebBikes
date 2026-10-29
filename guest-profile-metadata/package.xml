@@ -2,16 +2,16 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members
-        >E_Bikes_LWR_Site_Profile_profilePasswordPolicy1705564538465</members>
+        >WebBikes_LWR_Site_Profile_profilePasswordPolicy1705564538465</members>
         <name>ProfilePasswordPolicy</name>
     </types>
     <types>
         <members
-        >E_Bikes_LWR_Site_Profile_profileSessionSetting1705564538596</members>
+        >WebBikes_LWR_Site_Profile_profileSessionSetting1705564538596</members>
         <name>ProfileSessionSetting</name>
     </types>
     <types>
-        <members>E-Bikes LWR Site Profile</members>
+        <members>WebBikes LWR Site Profile</members>
         <name>Profile</name>
     </types>
     <types>
